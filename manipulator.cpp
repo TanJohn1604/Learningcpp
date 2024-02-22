@@ -40,6 +40,6 @@ cout<<std::noshowpoint;
 cout<<2.0<<endl;
 cout<<std::showpoint;
 cout<<2.0<<endl;
-cout<<"-----------------------7"<<endl;
+cout<<"-----------------------7"<<endl ;
 
 }
