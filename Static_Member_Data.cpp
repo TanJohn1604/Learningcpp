@@ -62,3 +62,6 @@ int main()
     temp.show_static_z();
 
 }
+// a=1
+// z=0
+// z=0
