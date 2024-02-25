@@ -1,4 +1,4 @@
-#include <iostream>
+#include<iostream>
 
 using namespace std;
 class test2;
@@ -191,7 +191,11 @@ class test6:public  test4,public  test5
     }
 
 };
-
+class test7
+{
+    int a7;
+    virtual void aa()=0;// pure virtual function
+};
 int main()
 {
 
